@@ -1,0 +1,11 @@
+streamlit>=1.40.0
+pymupdf==1.24.5
+pdfplumber==0.11.0
+langchain==0.2.5
+langchain-community==0.2.5
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+google-generativeai>=0.8.0
+python-dotenv==1.0.1
+numpy==1.26.4
+protobuf==5.29.6
